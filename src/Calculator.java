@@ -5,6 +5,10 @@ public class Calculator {
         return res;
     }
 
+    public static  int substract(int d, int c){
+        return d-c;
+    }
+
 
 
 }
