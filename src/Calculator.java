@@ -4,7 +4,7 @@ public class Calculator {
         int res = a+b;
         return res;
     }
-
+// add new subtract method
     public static  int substract(int d, int c){
         return d-c;
     }
