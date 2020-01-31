@@ -13,5 +13,11 @@ public class Calculator {
         return a*b;
     }
 
+ // add devide method
     public static int devide( int a, int b){ return a/b; }
- }
+
+ //add new devide% method    
+  public static int devideWithProcent (int d, int c){return d%c;}
+
+}
+
