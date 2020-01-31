@@ -8,7 +8,10 @@ public class Calculator {
     public static  int substract(int d, int c){
         return d-c;
     }
-
+    
+    public static  int multiply(int a, int b){
+        return a*b;
+    }
 
 
 }
