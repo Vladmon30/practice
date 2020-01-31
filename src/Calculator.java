@@ -1,5 +1,5 @@
 public class Calculator {
-//Training Git
+//Training Git/GitHub
     public static int add(int a, int b){
         int res = a+b;
         return res;
