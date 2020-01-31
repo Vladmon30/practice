@@ -6,6 +6,6 @@ public class Calc {
         Calculator.substract(num1,num2);
         System.out.println(Calculator.add(num1, num2));
         System.out.println(Calculator.substract(num1,num2));
-
+        // adding comments to Calc class
     }
 }
