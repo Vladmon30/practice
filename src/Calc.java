@@ -18,5 +18,11 @@ public class Calc {
         System.out.println(Calculator.substract(num1,num2));
         // adding comments to Calc class
         // its a good practice
+        
+         public static int devide( int num1, int num2){
+            int res = num1/num2;
+             return res;
+             
+    }
     }
 }
