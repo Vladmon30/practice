@@ -20,6 +20,7 @@ public class Calculator {
   public static int devideWithProcent (int d, int c){
         int res = d%c;
         return res;
+  // its a good method
     }
 
     
