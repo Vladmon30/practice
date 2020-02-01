@@ -5,6 +5,7 @@ public class Calculator {
         return res;
     }
 // add new subtract method
+//also its suppose to substract to integer numbers    
     public static  int substract(int d, int c){
         return d-c;
     }
@@ -19,5 +20,7 @@ public class Calculator {
  //add new devide% method    
   public static int devideWithProcent (int d, int c){return d%c;}
 
+    
+    // Its always fun to do something good in life and help other people for free!!!
 }
 
