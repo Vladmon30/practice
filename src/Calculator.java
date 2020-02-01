@@ -8,8 +8,10 @@ public class Calculator {
 // add new subtract method
 //also its suppose to substract to integer numbers    
 
-    public static  int substract(int d, int c){
-        int res = d-c;
+public static  int substract(int k, int g){
+//make some changes
+    int res = k-g;
+        //we add int res
         return res;
     }
  //adding new multiply method
