@@ -8,18 +8,25 @@ public class Calculator {
 // add new subtract method
 //also its suppose to substract to integer numbers    
     public static  int substract(int d, int c){
-        return d-c;
+        int res = d-c;
+        return res;
     }
- //adding new multiply method     
+ //adding new multiply method
+ // changed some parameters
     public static  int multiply(int a, int b){
-        return a*b;
+        int count = a*b;
+        return count;
     }
 
  // add devide method
     public static int devide( int a, int b){ return a/b; }
 
- //add new devide% method    
-  public static int devideWithProcent (int d, int c){return d%c;}
+ //add new devide% method
+ //change some variables parameters
+  public static int devideWithProcent (int d, int c){
+        int res = d%c;
+        return res;
+    }
 
     
     // Its always fun to do something good in life and help other people for free!!!
