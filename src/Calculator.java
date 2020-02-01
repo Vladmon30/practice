@@ -1,16 +1,18 @@
 public class Calculator {
 
-    public static int add(int i, int j){
-        int res = i+j;
+    public static int add(int a, int b){
+        int res = a+b;
         return res;
     }
 
     public static  int multiply(int a, int b){
-        int count = a*b;
-        return count;
+        int count = a * b;
+        return res;
     }
 
-    public static int devide( int c, int b){ return c/b; }
+    public static int devide( int a, int b){
+        return a/b; 
+    }
 
 
 }
