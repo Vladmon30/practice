@@ -14,15 +14,6 @@ public class Calculator {
 
  // add devide method
     public static int devide( int c, int b){ return c/b; }
-
- //add new devide% method
- //change some variables parameters
-  public static int devideWithProcent (int d, int c){
-        int res = d%c;
-        return res;
-    }
-
-    
-    // Its always fun to do something good in life and help other people for free!!!
+ // Its always fun to do something good in life and help other people for free!!!
 }
 
