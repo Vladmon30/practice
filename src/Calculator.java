@@ -1,12 +1,13 @@
 public class Calculator {
 //Training Git/GitHub
     //and I feel goooood!!!
-    public static int add(int a, int b){
-        int res = a+b;
+    public static int add(int i, int j){
+        int res = i+j;
         return res;
     }
 // add new subtract method
 //also its suppose to substract to integer numbers    
+
     public static  int substract(int d, int c){
         int res = d-c;
         return res;
@@ -19,7 +20,7 @@ public class Calculator {
     }
 
  // add devide method
-    public static int devide( int a, int b){ return a/b; }
+    public static int devide( int c, int b){ return c/b; }
 
  //add new devide% method
  //change some variables parameters
