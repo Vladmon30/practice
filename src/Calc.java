@@ -6,9 +6,11 @@ public class Calc {
         int num3;
         int num4;
         Calculator.add(num1, num2);
+        // call substract method from calculator class
         Calculator.substract(num1,num2);
         System.out.println(Calculator.add(num1, num2));
         System.out.println(Calculator.substract(num1,num2));
         // adding comments to Calc class
+        // its a good practice
     }
 }
