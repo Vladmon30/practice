@@ -9,10 +9,15 @@ public class Calc {
         String gas = "disel";
         int num3;
         int num4;
+
         Calculator.add(num1, num2);
-// call substract method from calculator class
-        System.out.println(Calculator.add(num1, num2)); // adding comments to Calc class
+        // call substract method from calculator class
+
+        System.out.println(Calculator.add(num1, num2));
+
+        // adding comments to Calc class
         // its a good practice
+
     }
         public static int devide ( int a, int b){
             return a / b;
