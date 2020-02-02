@@ -13,19 +13,14 @@ public class Calc {
 
         Calculator.add(num1, num2);
         // call substract method from calculator class
-        Calculator.substract(num1, num2);
+
         System.out.println(Calculator.add(num1, num2));
-        System.out.println(Calculator.substract(num1, num2));
+
         // adding comments to Calc class
         // its a good practice
-        
-         public static int devide( int num1, int num2){
-            int res = num1/num2;
-             return res;
-             
+
     }
-    }
-        public static int devide( int a, int b){
-            return a/b;
+        public static int devide ( int a, int b){
+            return a / b;
         }
-}
+    }
